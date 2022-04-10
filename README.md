@@ -8,7 +8,7 @@ Hello, I'm Letícia Gonçalves <img src="https://media.giphy.com/media/hvRJCLFzc
 <b>A little about me. I'm</b>
 <br />
 
-✅ 19 yo
+✅ 20 yo
 <br />
 💻  back-end developer  
 ☁  cloud knowledge           
