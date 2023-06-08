@@ -1,6 +1,6 @@
 Hello, I'm Letícia Gonçalves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <br />
-<a href="https://www.linkedin.com/in/letícia-esprega-gonçalves-037019155/">
+<a href="https://www.linkedin.com/in/leticia-esprega-goncalves/">
   <img align="left" alt="Leticia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
