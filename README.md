@@ -4,7 +4,6 @@
   Visit my LinkeIn
   <img align="left" alt="Leticia's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<br />
 <a href="https://medium.com/@leticiaespregagon">
   Visit my Medium
   <img align="left" alt="Leticia's Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" />
