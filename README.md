@@ -9,7 +9,6 @@
   Visit my Medium
   <img align="left" alt="Leticia's Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" />
 </a>
-<br />
 
 ## A little about me. I'm
 
