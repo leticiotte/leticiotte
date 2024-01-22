@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hello, I'm Letícia Gonçalves, a Backend Sofware Engineer from Brazil
 
 <a href="https://www.linkedin.com/in/leticia-esprega-goncalves/">
-  Visit my LinkeIn
+  Visit my LinkedIn
 </a>
 <br />
 <a href="https://medium.com/@leticiaespregagon">
