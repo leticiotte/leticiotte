@@ -10,7 +10,7 @@
 
 ## A little about me. I'm
 
-- ✅ 21 years old
+- ✅ 22 years old
 - 🇧🇷 from Brazil
 - ♨️ working at F1rst Digital Services, a Santander company
 - 💻  backend software engineer  
