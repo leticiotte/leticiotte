@@ -18,7 +18,7 @@
 - 👩‍🎓  undergraduate student in Analysis and Systems Development ("Análise e desenvolvimento de sistemas" - Instituto Federal de São Paulo)           
 - 📚  thirsty for knowledge
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, frameworks and tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -70,6 +70,14 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" />
+    </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+            alt="next js" width="40" height="40" />
+    </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg"
+            alt="nest js" width="40" height="40" />
     </a>
     <br />
     <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
