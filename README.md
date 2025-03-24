@@ -10,12 +10,12 @@
 
 ## A little about me. I'm
 
-- ✅ 22 years old
+- ✅ 23 years old
 - 🇧🇷 from Brazil
 - ♨️ working at F1rst Digital Services, a Santander company
 - 💻  backend software engineer  
 - ☁  cloud knowledge           
-- 👩‍🎓  undergraduate student in Analysis and Systems Development ("Análise e desenvolvimento de sistemas" - Instituto Federal de São Paulo)           
+- 👩‍🎓  graduated student in System Development ("Análise e desenvolvimento de sistemas" - Instituto Federal de São Paulo)           
 - 📚  thirsty for knowledge
 
 <h3 align="left">Languages, frameworks and tools:</h3>
